@@ -26,7 +26,7 @@ A Unity remaster of the Legend of Zelda on NES. Developed with Yeji Kim.
 
 **Tech**: Unity, C#, Aesprite, Piksel
 
-### [Mixtures and Melodies (Web Build)](https://anni-do.github.io/mixtures_and_melodies_web)
+### [Mixtures and Melodies (Web Build)](https://mi-miika.itch.io/mixtures-melodies)
 
 A magic-themed rhythm game with rougelike/lite elements incorporated into its gameplay!
 Players hit notes in time with the music, earn rewards based on their performance, and use modifiers that change gameplay between runs. 
