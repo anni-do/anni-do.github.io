@@ -25,3 +25,8 @@ A Unity remaster of the Legend of Zelda on NES. Developed with Yeji Kim.
 
 
 **Tech**: Unity, C#, Aesprite, Piksel
+
+### Mixtures & Melodies
+A rhythm game with rougelike/lite elements incorporated into its gameplay!
+
+**Downloads**
